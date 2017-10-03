@@ -1,4 +1,6 @@
-public class Factorial {
+import java.util.Scanner;
+
+class Factorial {
  	
 	static Scanner sc = new Scanner(System.in);
 	
