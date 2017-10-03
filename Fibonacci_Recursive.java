@@ -1,4 +1,6 @@
-public class Fibonacci {
+import java.util.Scanner;
+
+class Fibonacci {
 	
 	static Scanner sc = new Scanner(System.in);
 	
