@@ -18,6 +18,7 @@ class Lcm {
 		}
 		else {
 			return gcd(n2, n1%n2);
+			
 		}
 	}
 }
