@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class Leap_Year {
+public class Leap_Year {
 static Scanner sc = new Scanner(System.in);
 	
 	public static void main(String[] args) {
