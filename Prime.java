@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class Prime {
+public class Prime {
 	static Scanner sc = new Scanner(System.in);
 	public static void main(String[] args) {
 		int flag=0;
