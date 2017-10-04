@@ -15,6 +15,7 @@ class Lcm {
 				break;
 			}
 			++lcm;
+			
 		}
 	}
 }
