@@ -1,6 +1,6 @@
 import java.util.Scanner;
-
-public class Strong {
+//Strong number is a special number whose sum of factorial of digits is equal to the original number.
+class Strong {
 	static Scanner sc = new Scanner(System.in);
 	public static void main(String[] args) {
 		
